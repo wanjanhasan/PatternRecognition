@@ -7,6 +7,9 @@ Towards Reducing Gender Bias in South Asian Language Translations
 Group number: 
 01
 
+Youtube Video Link:
+https://www.youtube.com/watch?v=8b849NrMPqE
+
 Group members:
 18201133 Nazmul Hasan Wanjan
 21141064 Basit Hussain
