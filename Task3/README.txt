@@ -3,9 +3,11 @@ https://youtube.com/.....
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/wanjanhasan/PatternRecognition/tree/main/Task3/...
+https://github.com/wanjanhasan/PatternRecognition/blob/main/Task3/PatternRecogTask3_1.drawio.pdf
+https://github.com/wanjanhasan/PatternRecognition/blob/main/Task3/PatternRecogTask3_1.drawio.png
+(Added the png for better visibility)
 Native/original format: 
-https://draw.io/...
+https://github.com/wanjanhasan/PatternRecognition/blob/main/Task3/PatternRecogTask3_1.drawio
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
