@@ -6,7 +6,7 @@ https://youtu.be/C3HhEETUn94
 
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/document/d/1JWo5LD9I-64zp5uQzTjESIxhecc3Zg-Zl_dsOsTrgyk/edit?usp=sharing
 
 
 
