@@ -3,6 +3,9 @@ https://youtu.be/HVXime0nQeI
 https://youtu.be/ImjdV73IBsY
 https://youtu.be/LQVqT6pA8lM
 https://youtu.be/4b5d3muPQmA
+https://www.youtube.com/watch?v=IfsjMg4fLWQ&t=21s
+https://www.youtube.com/watch?v=nR74lBO5M3s
+
 
 completed book:
 https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf
